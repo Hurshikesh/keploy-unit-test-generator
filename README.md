@@ -86,6 +86,10 @@ gcovr -r .. \
   --exclude '.*_deps.*' \
   --html --html-details -o coverage.html
 ```
+```
+open coverage.html
+```
+
 
 ## 🧩 Features
 1. LLM-driven test generation: Uses YAML prompts to guide GPT-4o for test creation and refinement.
