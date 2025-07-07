@@ -1,0 +1,31 @@
+task: Generate Google Test Unit Tests for C++ Code
+language: C++
+requirements:
+  - Use the Google Test framework (`gtest`) for all unit tests.
+  - Include only necessary headers; do not include unused or irrelevant headers.
+  - Generate accurate test functions using `TEST()` macros.
+  - Use assertions such as `EXPECT_EQ`, `EXPECT_TRUE`, `ASSERT_FALSE`, etc.
+  - Mock or stub external dependencies (e.g., Drogon ORM, Redis) only when absolutely necessary; prefer real code paths.
+  - Avoid generating incomplete, pseudo-code, placeholder logic, `// TODO`, or any code that will not compile.
+  - Do not use `throw std::logic_error("Not implemented")` or similar placeholders.
+  - Ensure every generated test file compiles cleanly without manual modification.
+  - Each test must be self-contained and not depend on external state.
+  - Cover all public methods and behaviors, including:
+      - Success cases
+      - Edge cases
+      - Failure/error paths
+      - Null or missing input handling
+  - Avoid generating duplicate or redundant tests.
+  - Name the test suite and test cases to clearly match the class or function under test.
+  - Do not include any explanations, comments, markdown code fences, or extra output—**only output the complete C++ test code file**.
+  - Integrate with GNU code coverage tools (e.g., `gcov`, `lcov`) by ensuring tests are compatible.
+  - Do not use underscores in test suite or test names (follow GoogleTest best practices).
+  - Do not use deprecated or non-standard C++ features.
+  - Prefer clear, idiomatic, modern C++17 code.
+  - Use deterministic, reproducible values (avoid random values unless testing randomness).
+output_format: |
+  Output only the complete, compilable C++ test code file.
+  No explanations, markdown, or commentary.
+  Name the test suite appropriately for the class.
+  One `.cc` file per source file.
+  Do not output anything except the code file.

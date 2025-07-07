@@ -1,0 +1,5 @@
+if(EXISTS "/Users/hurshikeshsahu/unit-test-generator/build/AllTests[1]_tests.cmake")
+  include("/Users/hurshikeshsahu/unit-test-generator/build/AllTests[1]_tests.cmake")
+else()
+  add_test(AllTests_NOT_BUILT AllTests_NOT_BUILT)
+endif()

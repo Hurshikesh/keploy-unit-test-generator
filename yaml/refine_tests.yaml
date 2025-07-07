@@ -1,0 +1,11 @@
+instructions:
+  - Carefully review the provided C++ unit test file.
+  - Remove any duplicate or redundant tests.
+  - Ensure all necessary #include statements are present and correct.
+  - Fix any issues that may cause build or compilation errors.
+  - Ensure all tests follow Google Test best practices and naming conventions.
+  - Do not change or alter the signatures of the functions being tested.
+  - Do not add, invent, or hallucinate any test logic for functions or members that do not exist in the codebase.
+  - Do not add any explanations, summaries, comments, or markdown outside of valid C++ code.
+  - Only output a single, clean, compilable C++ test file using Google Test macros.
+output_format: gtest

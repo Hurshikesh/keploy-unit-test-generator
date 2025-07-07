@@ -1,0 +1,22 @@
+{
+  "db_clients": [
+    {
+      "rdbms": "postgresql",
+      "host": "localhost",
+      "port": 5432,
+      "dbname": "testdb",
+      "user": "testuser2",
+      "passwd": "sonusuman123"
+    }
+  ],
+  "plugins": [
+    {
+      "name": "JwtPlugin",
+      "config": {
+        "secret": "dummy_secret",
+        "sessionTime": 3600,
+        "issuer": "test_issuer"
+      }
+    }
+  ]
+}

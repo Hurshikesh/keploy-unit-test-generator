@@ -1,0 +1,13 @@
+instructions:
+  - Fix the provided C++ test file so it builds successfully, using only the information from the build log and the class definitions provided below.
+  - First, always try to rewrite the test to use only the methods, fields, and constructors that are actually present in the class definition. If a method or constructor is missing, try to achieve the same test logic using available class members.
+  - Only if it is truly impossible to test a behavior (because the required method or constructor does not exist), comment out the minimal necessary code and add a TODO comment explaining what was skipped and why.
+  - If any code is commented out or skipped, add a line at the top: // TODO: TEST INCOMPLETE - some test logic was skipped due to missing class members.
+  - Do NOT remove or comment out entire tests unless absolutely necessary; prefer to comment out only the specific lines that cannot be fixed.
+  - Do NOT change include paths or namespaces unless the build log specifically says they are incorrect.
+  - Do NOT add or change any code unless it is required to resolve a specific build error shown in the log.
+  - Do NOT output any explanations, summaries, markdown, or comments outside valid C++ code and TODOs for missing members.
+  - Do NOT use markdown code fences (```
+  - Make the minimal possible change to resolve the build error. Do not refactor, optimize, or reformat code.
+  - Only output a single, clean, compilable C++ test file that can be run with Google Test.
+output_format: gtest

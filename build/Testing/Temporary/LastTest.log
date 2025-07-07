@@ -1,0 +1,2373 @@
+Start testing: Jul 07 09:36 IST
+----------------------------------------------------------
+1/80 Testing: DepartmentTest.ConstructorFromJson
+1/80 Test: DepartmentTest.ConstructorFromJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentTest.ConstructorFromJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentTest.ConstructorFromJson" start time: Jul 07 09:36 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:06:39.605101 UTC 21322193 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentTest.ConstructorFromJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentTest
+[ RUN      ] DepartmentTest.ConstructorFromJson
+[       OK ] DepartmentTest.ConstructorFromJson (0 ms)
+[----------] 1 test from DepartmentTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:06:41.706845 UTC 21322192 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.26 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentTest.ConstructorFromJson" end time: Jul 07 09:36 IST
+"DepartmentTest.ConstructorFromJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+2/80 Testing: DepartmentTest.SetGetName
+2/80 Test: DepartmentTest.SetGetName
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentTest.SetGetName" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentTest.SetGetName" start time: Jul 07 09:36 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:06:41.770030 UTC 21322328 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentTest.SetGetName
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentTest
+[ RUN      ] DepartmentTest.SetGetName
+[       OK ] DepartmentTest.SetGetName (0 ms)
+[----------] 1 test from DepartmentTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:06:43.788662 UTC 21322325 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentTest.SetGetName" end time: Jul 07 09:36 IST
+"DepartmentTest.SetGetName" time elapsed: 00:00:02
+----------------------------------------------------------
+
+3/80 Testing: DepartmentTest.SetGetId
+3/80 Test: DepartmentTest.SetGetId
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentTest.SetGetId" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentTest.SetGetId" start time: Jul 07 09:36 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:06:43.860414 UTC 21322435 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentTest.SetGetId
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentTest
+[ RUN      ] DepartmentTest.SetGetId
+[       OK ] DepartmentTest.SetGetId (0 ms)
+[----------] 1 test from DepartmentTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:06:45.886263 UTC 21322432 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.10 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentTest.SetGetId" end time: Jul 07 09:36 IST
+"DepartmentTest.SetGetId" time elapsed: 00:00:02
+----------------------------------------------------------
+
+4/80 Testing: DepartmentTest.ToJson
+4/80 Test: DepartmentTest.ToJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentTest.ToJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentTest.ToJson" start time: Jul 07 09:36 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:06:45.952357 UTC 21322489 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentTest.ToJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentTest
+[ RUN      ] DepartmentTest.ToJson
+[       OK ] DepartmentTest.ToJson (0 ms)
+[----------] 1 test from DepartmentTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:06:47.992090 UTC 21322488 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.11 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentTest.ToJson" end time: Jul 07 09:36 IST
+"DepartmentTest.ToJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+5/80 Testing: DepartmentTest.ValidateJsonForCreation
+5/80 Test: DepartmentTest.ValidateJsonForCreation
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentTest.ValidateJsonForCreation" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentTest.ValidateJsonForCreation" start time: Jul 07 09:36 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:06:48.045941 UTC 21322550 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentTest.ValidateJsonForCreation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentTest
+[ RUN      ] DepartmentTest.ValidateJsonForCreation
+[       OK ] DepartmentTest.ValidateJsonForCreation (0 ms)
+[----------] 1 test from DepartmentTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:06:50.062815 UTC 21322549 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentTest.ValidateJsonForCreation" end time: Jul 07 09:36 IST
+"DepartmentTest.ValidateJsonForCreation" time elapsed: 00:00:02
+----------------------------------------------------------
+
+6/80 Testing: DepartmentTest.ValidateJsonForUpdate
+6/80 Test: DepartmentTest.ValidateJsonForUpdate
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentTest.ValidateJsonForUpdate" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentTest.ValidateJsonForUpdate" start time: Jul 07 09:36 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:06:50.110909 UTC 21322600 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentTest.ValidateJsonForUpdate
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentTest
+[ RUN      ] DepartmentTest.ValidateJsonForUpdate
+[       OK ] DepartmentTest.ValidateJsonForUpdate (0 ms)
+[----------] 1 test from DepartmentTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:06:52.135129 UTC 21322599 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentTest.ValidateJsonForUpdate" end time: Jul 07 09:36 IST
+"DepartmentTest.ValidateJsonForUpdate" time elapsed: 00:00:02
+----------------------------------------------------------
+
+7/80 Testing: DepartmentTest.ValidateMasqueradedJsonForCreation
+7/80 Test: DepartmentTest.ValidateMasqueradedJsonForCreation
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentTest.ValidateMasqueradedJsonForCreation" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentTest.ValidateMasqueradedJsonForCreation" start time: Jul 07 09:36 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:06:52.186805 UTC 21322649 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentTest.ValidateMasqueradedJsonForCreation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentTest
+[ RUN      ] DepartmentTest.ValidateMasqueradedJsonForCreation
+[       OK ] DepartmentTest.ValidateMasqueradedJsonForCreation (0 ms)
+[----------] 1 test from DepartmentTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:06:54.217029 UTC 21322648 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentTest.ValidateMasqueradedJsonForCreation" end time: Jul 07 09:36 IST
+"DepartmentTest.ValidateMasqueradedJsonForCreation" time elapsed: 00:00:02
+----------------------------------------------------------
+
+8/80 Testing: DepartmentTest.ValidateMasqueradedJsonForUpdate
+8/80 Test: DepartmentTest.ValidateMasqueradedJsonForUpdate
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentTest.ValidateMasqueradedJsonForUpdate" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentTest.ValidateMasqueradedJsonForUpdate" start time: Jul 07 09:36 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:06:54.265550 UTC 21322673 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentTest.ValidateMasqueradedJsonForUpdate
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentTest
+[ RUN      ] DepartmentTest.ValidateMasqueradedJsonForUpdate
+[       OK ] DepartmentTest.ValidateMasqueradedJsonForUpdate (0 ms)
+[----------] 1 test from DepartmentTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:06:56.295749 UTC 21322672 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentTest.ValidateMasqueradedJsonForUpdate" end time: Jul 07 09:36 IST
+"DepartmentTest.ValidateMasqueradedJsonForUpdate" time elapsed: 00:00:02
+----------------------------------------------------------
+
+9/80 Testing: DepartmentTest.ToMasqueradedJson
+9/80 Test: DepartmentTest.ToMasqueradedJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentTest.ToMasqueradedJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentTest.ToMasqueradedJson" start time: Jul 07 09:36 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:06:56.344866 UTC 21322721 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentTest.ToMasqueradedJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentTest
+[ RUN      ] DepartmentTest.ToMasqueradedJson
+[       OK ] DepartmentTest.ToMasqueradedJson (0 ms)
+[----------] 1 test from DepartmentTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:06:58.374522 UTC 21322720 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentTest.ToMasqueradedJson" end time: Jul 07 09:36 IST
+"DepartmentTest.ToMasqueradedJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+10/80 Testing: DepartmentsControllerTest.GetDepartmentsSuccess
+10/80 Test: DepartmentsControllerTest.GetDepartmentsSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentsControllerTest.GetDepartmentsSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentsControllerTest.GetDepartmentsSuccess" start time: Jul 07 09:36 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:06:58.421785 UTC 21322779 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentsControllerTest.GetDepartmentsSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentsControllerTest
+[ RUN      ] DepartmentsControllerTest.GetDepartmentsSuccess
+20250707 04:07:00.502451 UTC 21322778 DEBUG [get] get - DepartmentsController.cc:23
+[       OK ] DepartmentsControllerTest.GetDepartmentsSuccess (89 ms)
+[----------] 1 test from DepartmentsControllerTest (89 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (89 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:00.533565 UTC 21322778 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.16 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentsControllerTest.GetDepartmentsSuccess" end time: Jul 07 09:37 IST
+"DepartmentsControllerTest.GetDepartmentsSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+11/80 Testing: DepartmentsControllerTest.GetDepartmentByIdSuccess
+11/80 Test: DepartmentsControllerTest.GetDepartmentByIdSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentsControllerTest.GetDepartmentByIdSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentsControllerTest.GetDepartmentByIdSuccess" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:00.579930 UTC 21322831 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentsControllerTest.GetDepartmentByIdSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentsControllerTest
+[ RUN      ] DepartmentsControllerTest.GetDepartmentByIdSuccess
+20250707 04:07:02.586819 UTC 21322830 DEBUG [getOne] getOne departmentId: 1 - DepartmentsController.cc:52
+[       OK ] DepartmentsControllerTest.GetDepartmentByIdSuccess (4 ms)
+[----------] 1 test from DepartmentsControllerTest (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:02.606213 UTC 21322830 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentsControllerTest.GetDepartmentByIdSuccess" end time: Jul 07 09:37 IST
+"DepartmentsControllerTest.GetDepartmentByIdSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+12/80 Testing: DepartmentsControllerTest.CreateDepartmentSuccess
+12/80 Test: DepartmentsControllerTest.CreateDepartmentSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentsControllerTest.CreateDepartmentSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentsControllerTest.CreateDepartmentSuccess" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:02.653333 UTC 21322880 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentsControllerTest.CreateDepartmentSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentsControllerTest
+[ RUN      ] DepartmentsControllerTest.CreateDepartmentSuccess
+20250707 04:07:04.658640 UTC 21322879 DEBUG [createOne] createOne - DepartmentsController.cc:82
+[       OK ] DepartmentsControllerTest.CreateDepartmentSuccess (11 ms)
+[----------] 1 test from DepartmentsControllerTest (11 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (11 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:04.685303 UTC 21322879 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentsControllerTest.CreateDepartmentSuccess" end time: Jul 07 09:37 IST
+"DepartmentsControllerTest.CreateDepartmentSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+13/80 Testing: DepartmentsControllerTest.UpdateDepartmentSuccess
+13/80 Test: DepartmentsControllerTest.UpdateDepartmentSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentsControllerTest.UpdateDepartmentSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentsControllerTest.UpdateDepartmentSuccess" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:04.745256 UTC 21322915 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentsControllerTest.UpdateDepartmentSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentsControllerTest
+[ RUN      ] DepartmentsControllerTest.UpdateDepartmentSuccess
+20250707 04:07:06.752962 UTC 21322913 DEBUG [updateOne] updateOne departmentId: 1 - DepartmentsController.cc:105
+[       OK ] DepartmentsControllerTest.UpdateDepartmentSuccess (7 ms)
+[----------] 1 test from DepartmentsControllerTest (7 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (7 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:06.775490 UTC 21322913 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.09 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentsControllerTest.UpdateDepartmentSuccess" end time: Jul 07 09:37 IST
+"DepartmentsControllerTest.UpdateDepartmentSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+14/80 Testing: DepartmentsControllerTest.DeleteDepartmentSuccess
+14/80 Test: DepartmentsControllerTest.DeleteDepartmentSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentsControllerTest.DeleteDepartmentSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentsControllerTest.DeleteDepartmentSuccess" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:06.829105 UTC 21322968 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentsControllerTest.DeleteDepartmentSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentsControllerTest
+[ RUN      ] DepartmentsControllerTest.DeleteDepartmentSuccess
+20250707 04:07:08.837797 UTC 21322967 DEBUG [deleteOne] deleteOne departmentId:  - DepartmentsController.cc:145
+[       OK ] DepartmentsControllerTest.DeleteDepartmentSuccess (6 ms)
+[----------] 1 test from DepartmentsControllerTest (6 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (6 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:08.860821 UTC 21322967 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentsControllerTest.DeleteDepartmentSuccess" end time: Jul 07 09:37 IST
+"DepartmentsControllerTest.DeleteDepartmentSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+15/80 Testing: DepartmentsControllerTest.GetDepartmentPersonsSuccess
+15/80 Test: DepartmentsControllerTest.GetDepartmentPersonsSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=DepartmentsControllerTest.GetDepartmentPersonsSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"DepartmentsControllerTest.GetDepartmentPersonsSuccess" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:08.912592 UTC 21323036 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = DepartmentsControllerTest.GetDepartmentPersonsSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DepartmentsControllerTest
+[ RUN      ] DepartmentsControllerTest.GetDepartmentPersonsSuccess
+20250707 04:07:10.946312 UTC 21323035 DEBUG [getDepartmentPersons] getDepartmentPersons departmentId: 1 - DepartmentsController.cc:166
+[       OK ] DepartmentsControllerTest.GetDepartmentPersonsSuccess (35 ms)
+[----------] 1 test from DepartmentsControllerTest (35 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (36 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:10.979899 UTC 21323035 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.12 sec
+----------------------------------------------------------
+Test Passed.
+"DepartmentsControllerTest.GetDepartmentPersonsSuccess" end time: Jul 07 09:37 IST
+"DepartmentsControllerTest.GetDepartmentPersonsSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+16/80 Testing: JobTest.DefaultConstructor
+16/80 Test: JobTest.DefaultConstructor
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobTest.DefaultConstructor" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobTest.DefaultConstructor" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:11.052349 UTC 21323084 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobTest.DefaultConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobTest
+[ RUN      ] JobTest.DefaultConstructor
+[       OK ] JobTest.DefaultConstructor (0 ms)
+[----------] 1 test from JobTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:13.083017 UTC 21323082 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.10 sec
+----------------------------------------------------------
+Test Passed.
+"JobTest.DefaultConstructor" end time: Jul 07 09:37 IST
+"JobTest.DefaultConstructor" time elapsed: 00:00:02
+----------------------------------------------------------
+
+17/80 Testing: JobTest.SettersAndGetters
+17/80 Test: JobTest.SettersAndGetters
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobTest.SettersAndGetters" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobTest.SettersAndGetters" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:13.132001 UTC 21323178 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobTest.SettersAndGetters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobTest
+[ RUN      ] JobTest.SettersAndGetters
+[       OK ] JobTest.SettersAndGetters (0 ms)
+[----------] 1 test from JobTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:15.161906 UTC 21323174 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"JobTest.SettersAndGetters" end time: Jul 07 09:37 IST
+"JobTest.SettersAndGetters" time elapsed: 00:00:02
+----------------------------------------------------------
+
+18/80 Testing: JobTest.SetTitleRValue
+18/80 Test: JobTest.SetTitleRValue
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobTest.SetTitleRValue" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobTest.SetTitleRValue" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:15.212215 UTC 21323225 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobTest.SetTitleRValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobTest
+[ RUN      ] JobTest.SetTitleRValue
+[       OK ] JobTest.SetTitleRValue (0 ms)
+[----------] 1 test from JobTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:17.244371 UTC 21323222 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"JobTest.SetTitleRValue" end time: Jul 07 09:37 IST
+"JobTest.SetTitleRValue" time elapsed: 00:00:02
+----------------------------------------------------------
+
+19/80 Testing: JobTest.ToJsonAndFromJson
+19/80 Test: JobTest.ToJsonAndFromJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobTest.ToJsonAndFromJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobTest.ToJsonAndFromJson" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:17.297573 UTC 21323338 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobTest.ToJsonAndFromJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobTest
+[ RUN      ] JobTest.ToJsonAndFromJson
+[       OK ] JobTest.ToJsonAndFromJson (0 ms)
+[----------] 1 test from JobTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:19.325803 UTC 21323334 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"JobTest.ToJsonAndFromJson" end time: Jul 07 09:37 IST
+"JobTest.ToJsonAndFromJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+20/80 Testing: JobTest.UpdateByJson
+20/80 Test: JobTest.UpdateByJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobTest.UpdateByJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobTest.UpdateByJson" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:19.380127 UTC 21323372 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobTest.UpdateByJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobTest
+[ RUN      ] JobTest.UpdateByJson
+[       OK ] JobTest.UpdateByJson (0 ms)
+[----------] 1 test from JobTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:21.402277 UTC 21323369 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"JobTest.UpdateByJson" end time: Jul 07 09:37 IST
+"JobTest.UpdateByJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+21/80 Testing: JobTest.ToMasqueradedJson
+21/80 Test: JobTest.ToMasqueradedJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobTest.ToMasqueradedJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobTest.ToMasqueradedJson" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:21.453941 UTC 21323423 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobTest.ToMasqueradedJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobTest
+[ RUN      ] JobTest.ToMasqueradedJson
+[       OK ] JobTest.ToMasqueradedJson (0 ms)
+[----------] 1 test from JobTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:23.482533 UTC 21323414 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"JobTest.ToMasqueradedJson" end time: Jul 07 09:37 IST
+"JobTest.ToMasqueradedJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+22/80 Testing: JobTest.FromMasqueradedJson
+22/80 Test: JobTest.FromMasqueradedJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobTest.FromMasqueradedJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobTest.FromMasqueradedJson" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:23.531302 UTC 21323453 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobTest.FromMasqueradedJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobTest
+[ RUN      ] JobTest.FromMasqueradedJson
+[       OK ] JobTest.FromMasqueradedJson (0 ms)
+[----------] 1 test from JobTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:25.562447 UTC 21323451 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"JobTest.FromMasqueradedJson" end time: Jul 07 09:37 IST
+"JobTest.FromMasqueradedJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+23/80 Testing: JobTest.ValidateJsonForCreationAndUpdate
+23/80 Test: JobTest.ValidateJsonForCreationAndUpdate
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobTest.ValidateJsonForCreationAndUpdate" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobTest.ValidateJsonForCreationAndUpdate" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:25.612732 UTC 21323502 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobTest.ValidateJsonForCreationAndUpdate
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobTest
+[ RUN      ] JobTest.ValidateJsonForCreationAndUpdate
+[       OK ] JobTest.ValidateJsonForCreationAndUpdate (0 ms)
+[----------] 1 test from JobTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:27.646528 UTC 21323500 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"JobTest.ValidateJsonForCreationAndUpdate" end time: Jul 07 09:37 IST
+"JobTest.ValidateJsonForCreationAndUpdate" time elapsed: 00:00:02
+----------------------------------------------------------
+
+24/80 Testing: JobTest.GetColumnNameThrowsOnInvalidIndex
+24/80 Test: JobTest.GetColumnNameThrowsOnInvalidIndex
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobTest.GetColumnNameThrowsOnInvalidIndex" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobTest.GetColumnNameThrowsOnInvalidIndex" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:27.697096 UTC 21323644 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobTest.GetColumnNameThrowsOnInvalidIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobTest
+[ RUN      ] JobTest.GetColumnNameThrowsOnInvalidIndex
+[       OK ] JobTest.GetColumnNameThrowsOnInvalidIndex (0 ms)
+[----------] 1 test from JobTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:29.720313 UTC 21323641 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"JobTest.GetColumnNameThrowsOnInvalidIndex" end time: Jul 07 09:37 IST
+"JobTest.GetColumnNameThrowsOnInvalidIndex" time elapsed: 00:00:02
+----------------------------------------------------------
+
+25/80 Testing: PersonTest.ConstructorFromValidJson
+25/80 Test: PersonTest.ConstructorFromValidJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonTest.ConstructorFromValidJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonTest.ConstructorFromValidJson" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:29.771954 UTC 21323700 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonTest.ConstructorFromValidJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonTest
+[ RUN      ] PersonTest.ConstructorFromValidJson
+[       OK ] PersonTest.ConstructorFromValidJson (1 ms)
+[----------] 1 test from PersonTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:31.804168 UTC 21323695 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"PersonTest.ConstructorFromValidJson" end time: Jul 07 09:37 IST
+"PersonTest.ConstructorFromValidJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+26/80 Testing: PersonTest.ConstructorFromInvalidJson
+26/80 Test: PersonTest.ConstructorFromInvalidJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonTest.ConstructorFromInvalidJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonTest.ConstructorFromInvalidJson" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:31.857416 UTC 21323742 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonTest.ConstructorFromInvalidJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonTest
+[ RUN      ] PersonTest.ConstructorFromInvalidJson
+[       OK ] PersonTest.ConstructorFromInvalidJson (4 ms)
+[----------] 1 test from PersonTest (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:33.888043 UTC 21323739 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"PersonTest.ConstructorFromInvalidJson" end time: Jul 07 09:37 IST
+"PersonTest.ConstructorFromInvalidJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+27/80 Testing: PersonTest.UpdateByJson
+27/80 Test: PersonTest.UpdateByJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonTest.UpdateByJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonTest.UpdateByJson" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:33.941765 UTC 21323789 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonTest.UpdateByJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonTest
+[ RUN      ] PersonTest.UpdateByJson
+[       OK ] PersonTest.UpdateByJson (0 ms)
+[----------] 1 test from PersonTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:35.968432 UTC 21323787 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"PersonTest.UpdateByJson" end time: Jul 07 09:37 IST
+"PersonTest.UpdateByJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+28/80 Testing: PersonTest.ValidateJsonForCreationSuccess
+28/80 Test: PersonTest.ValidateJsonForCreationSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonTest.ValidateJsonForCreationSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonTest.ValidateJsonForCreationSuccess" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:36.019885 UTC 21323836 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonTest.ValidateJsonForCreationSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonTest
+[ RUN      ] PersonTest.ValidateJsonForCreationSuccess
+[       OK ] PersonTest.ValidateJsonForCreationSuccess (0 ms)
+[----------] 1 test from PersonTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:38.040893 UTC 21323834 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"PersonTest.ValidateJsonForCreationSuccess" end time: Jul 07 09:37 IST
+"PersonTest.ValidateJsonForCreationSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+29/80 Testing: PersonTest.ValidateJsonForCreationFailure
+29/80 Test: PersonTest.ValidateJsonForCreationFailure
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonTest.ValidateJsonForCreationFailure" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonTest.ValidateJsonForCreationFailure" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:38.101006 UTC 21323903 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonTest.ValidateJsonForCreationFailure
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonTest
+[ RUN      ] PersonTest.ValidateJsonForCreationFailure
+[       OK ] PersonTest.ValidateJsonForCreationFailure (0 ms)
+[----------] 1 test from PersonTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:40.130479 UTC 21323901 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.09 sec
+----------------------------------------------------------
+Test Passed.
+"PersonTest.ValidateJsonForCreationFailure" end time: Jul 07 09:37 IST
+"PersonTest.ValidateJsonForCreationFailure" time elapsed: 00:00:02
+----------------------------------------------------------
+
+30/80 Testing: PersonTest.ToJson
+30/80 Test: PersonTest.ToJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonTest.ToJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonTest.ToJson" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:40.182967 UTC 21323956 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonTest.ToJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonTest
+[ RUN      ] PersonTest.ToJson
+[       OK ] PersonTest.ToJson (0 ms)
+[----------] 1 test from PersonTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:42.213883 UTC 21323952 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"PersonTest.ToJson" end time: Jul 07 09:37 IST
+"PersonTest.ToJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+31/80 Testing: PersonTest.ToMasqueradedJson
+31/80 Test: PersonTest.ToMasqueradedJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonTest.ToMasqueradedJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonTest.ToMasqueradedJson" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:42.262980 UTC 21324012 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonTest.ToMasqueradedJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonTest
+[ RUN      ] PersonTest.ToMasqueradedJson
+[       OK ] PersonTest.ToMasqueradedJson (2 ms)
+[----------] 1 test from PersonTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:44.298092 UTC 21324009 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"PersonTest.ToMasqueradedJson" end time: Jul 07 09:37 IST
+"PersonTest.ToMasqueradedJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+32/80 Testing: PersonInfoIntegration.ConstructFromDbRow
+32/80 Test: PersonInfoIntegration.ConstructFromDbRow
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonInfoIntegration.ConstructFromDbRow" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonInfoIntegration.ConstructFromDbRow" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:44.347597 UTC 21324044 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonInfoIntegration.ConstructFromDbRow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonInfoIntegration
+[ RUN      ] PersonInfoIntegration.ConstructFromDbRow
+[       OK ] PersonInfoIntegration.ConstructFromDbRow (9 ms)
+[----------] 1 test from PersonInfoIntegration (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:46.383115 UTC 21324041 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"PersonInfoIntegration.ConstructFromDbRow" end time: Jul 07 09:37 IST
+"PersonInfoIntegration.ConstructFromDbRow" time elapsed: 00:00:02
+----------------------------------------------------------
+
+33/80 Testing: PersonInfoIntegration.NoRowFound
+33/80 Test: PersonInfoIntegration.NoRowFound
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonInfoIntegration.NoRowFound" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonInfoIntegration.NoRowFound" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:46.434911 UTC 21324085 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonInfoIntegration.NoRowFound
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonInfoIntegration
+[ RUN      ] PersonInfoIntegration.NoRowFound
+[       OK ] PersonInfoIntegration.NoRowFound (1 ms)
+[----------] 1 test from PersonInfoIntegration (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:48.455612 UTC 21324083 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"PersonInfoIntegration.NoRowFound" end time: Jul 07 09:37 IST
+"PersonInfoIntegration.NoRowFound" time elapsed: 00:00:02
+----------------------------------------------------------
+
+34/80 Testing: UserTest.GetColumnNameValidIndex
+34/80 Test: UserTest.GetColumnNameValidIndex
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UserTest.GetColumnNameValidIndex" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UserTest.GetColumnNameValidIndex" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:48.508524 UTC 21324151 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UserTest.GetColumnNameValidIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserTest
+[ RUN      ] UserTest.GetColumnNameValidIndex
+[       OK ] UserTest.GetColumnNameValidIndex (0 ms)
+[----------] 1 test from UserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:50.541091 UTC 21324149 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"UserTest.GetColumnNameValidIndex" end time: Jul 07 09:37 IST
+"UserTest.GetColumnNameValidIndex" time elapsed: 00:00:02
+----------------------------------------------------------
+
+35/80 Testing: UserTest.GetColumnNameInvalidIndex
+35/80 Test: UserTest.GetColumnNameInvalidIndex
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UserTest.GetColumnNameInvalidIndex" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UserTest.GetColumnNameInvalidIndex" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:50.594209 UTC 21324216 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UserTest.GetColumnNameInvalidIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserTest
+[ RUN      ] UserTest.GetColumnNameInvalidIndex
+/Users/hurshikeshsahu/unit-test-generator/tests/User_test.cc:18: Skipped
+User::getColumnName uses assert, cannot test for exception.
+[  SKIPPED ] UserTest.GetColumnNameInvalidIndex (2 ms)
+[----------] 1 test from UserTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 0 tests.
+[  SKIPPED ] 1 test, listed below:
+[  SKIPPED ] UserTest.GetColumnNameInvalidIndex
+20250707 04:07:52.629518 UTC 21324213 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.09 sec
+----------------------------------------------------------
+Test Pass Reason:
+Skip regular expression found in output. Regex=[\[  SKIPPED \]]
+"UserTest.GetColumnNameInvalidIndex" end time: Jul 07 09:37 IST
+"UserTest.GetColumnNameInvalidIndex" time elapsed: 00:00:02
+----------------------------------------------------------
+
+36/80 Testing: UserTest.ConstructorFromJson
+36/80 Test: UserTest.ConstructorFromJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UserTest.ConstructorFromJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UserTest.ConstructorFromJson" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:52.680154 UTC 21324280 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UserTest.ConstructorFromJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserTest
+[ RUN      ] UserTest.ConstructorFromJson
+[       OK ] UserTest.ConstructorFromJson (0 ms)
+[----------] 1 test from UserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:54.713427 UTC 21324277 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"UserTest.ConstructorFromJson" end time: Jul 07 09:37 IST
+"UserTest.ConstructorFromJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+37/80 Testing: UserTest.UpdateByJson
+37/80 Test: UserTest.UpdateByJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UserTest.UpdateByJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UserTest.UpdateByJson" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:54.764206 UTC 21324321 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UserTest.UpdateByJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserTest
+[ RUN      ] UserTest.UpdateByJson
+[       OK ] UserTest.UpdateByJson (0 ms)
+[----------] 1 test from UserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:56.796029 UTC 21324317 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"UserTest.UpdateByJson" end time: Jul 07 09:37 IST
+"UserTest.UpdateByJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+38/80 Testing: UserTest.Setters
+38/80 Test: UserTest.Setters
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UserTest.Setters" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UserTest.Setters" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:56.847575 UTC 21324364 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UserTest.Setters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserTest
+[ RUN      ] UserTest.Setters
+[       OK ] UserTest.Setters (0 ms)
+[----------] 1 test from UserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:07:58.873873 UTC 21324361 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"UserTest.Setters" end time: Jul 07 09:37 IST
+"UserTest.Setters" time elapsed: 00:00:02
+----------------------------------------------------------
+
+39/80 Testing: UserTest.ValidationJsonForCreation
+39/80 Test: UserTest.ValidationJsonForCreation
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UserTest.ValidationJsonForCreation" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UserTest.ValidationJsonForCreation" start time: Jul 07 09:37 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:07:58.924955 UTC 21324447 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UserTest.ValidationJsonForCreation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserTest
+[ RUN      ] UserTest.ValidationJsonForCreation
+[       OK ] UserTest.ValidationJsonForCreation (0 ms)
+[----------] 1 test from UserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:00.945388 UTC 21324445 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"UserTest.ValidationJsonForCreation" end time: Jul 07 09:38 IST
+"UserTest.ValidationJsonForCreation" time elapsed: 00:00:02
+----------------------------------------------------------
+
+40/80 Testing: UserTest.ValidationJsonForUpdate
+40/80 Test: UserTest.ValidationJsonForUpdate
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UserTest.ValidationJsonForUpdate" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UserTest.ValidationJsonForUpdate" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:01.002482 UTC 21324508 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UserTest.ValidationJsonForUpdate
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserTest
+[ RUN      ] UserTest.ValidationJsonForUpdate
+[       OK ] UserTest.ValidationJsonForUpdate (0 ms)
+[----------] 1 test from UserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:03.021701 UTC 21324506 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"UserTest.ValidationJsonForUpdate" end time: Jul 07 09:38 IST
+"UserTest.ValidationJsonForUpdate" time elapsed: 00:00:02
+----------------------------------------------------------
+
+41/80 Testing: UserTest.ToJson
+41/80 Test: UserTest.ToJson
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UserTest.ToJson" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UserTest.ToJson" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:03.075431 UTC 21324553 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UserTest.ToJson
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserTest
+[ RUN      ] UserTest.ToJson
+[       OK ] UserTest.ToJson (0 ms)
+[----------] 1 test from UserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:05.103971 UTC 21324548 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"UserTest.ToJson" end time: Jul 07 09:38 IST
+"UserTest.ToJson" time elapsed: 00:00:02
+----------------------------------------------------------
+
+42/80 Testing: UserIntegrationTest.ConstructFromDbRow
+42/80 Test: UserIntegrationTest.ConstructFromDbRow
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UserIntegrationTest.ConstructFromDbRow" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UserIntegrationTest.ConstructFromDbRow" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:05.154010 UTC 21324600 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UserIntegrationTest.ConstructFromDbRow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserIntegrationTest
+[ RUN      ] UserIntegrationTest.ConstructFromDbRow
+[       OK ] UserIntegrationTest.ConstructFromDbRow (13 ms)
+[----------] 1 test from UserIntegrationTest (13 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (13 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:07.187866 UTC 21324597 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"UserIntegrationTest.ConstructFromDbRow" end time: Jul 07 09:38 IST
+"UserIntegrationTest.ConstructFromDbRow" time elapsed: 00:00:02
+----------------------------------------------------------
+
+43/80 Testing: UtilsTest.BadRequestValidInput
+43/80 Test: UtilsTest.BadRequestValidInput
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UtilsTest.BadRequestValidInput" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UtilsTest.BadRequestValidInput" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:07.235547 UTC 21324657 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UtilsTest.BadRequestValidInput
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UtilsTest
+[ RUN      ] UtilsTest.BadRequestValidInput
+[       OK ] UtilsTest.BadRequestValidInput (2 ms)
+[----------] 1 test from UtilsTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:09.270674 UTC 21324652 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"UtilsTest.BadRequestValidInput" end time: Jul 07 09:38 IST
+"UtilsTest.BadRequestValidInput" time elapsed: 00:00:02
+----------------------------------------------------------
+
+44/80 Testing: UtilsTest.BadRequestEmptyError
+44/80 Test: UtilsTest.BadRequestEmptyError
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UtilsTest.BadRequestEmptyError" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UtilsTest.BadRequestEmptyError" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:09.318829 UTC 21324713 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UtilsTest.BadRequestEmptyError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UtilsTest
+[ RUN      ] UtilsTest.BadRequestEmptyError
+[       OK ] UtilsTest.BadRequestEmptyError (1 ms)
+[----------] 1 test from UtilsTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:11.352603 UTC 21324710 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"UtilsTest.BadRequestEmptyError" end time: Jul 07 09:38 IST
+"UtilsTest.BadRequestEmptyError" time elapsed: 00:00:02
+----------------------------------------------------------
+
+45/80 Testing: UtilsTest.MakeErrRespValidInput
+45/80 Test: UtilsTest.MakeErrRespValidInput
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UtilsTest.MakeErrRespValidInput" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UtilsTest.MakeErrRespValidInput" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:11.404666 UTC 21324751 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UtilsTest.MakeErrRespValidInput
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UtilsTest
+[ RUN      ] UtilsTest.MakeErrRespValidInput
+[       OK ] UtilsTest.MakeErrRespValidInput (0 ms)
+[----------] 1 test from UtilsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:13.433017 UTC 21324749 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"UtilsTest.MakeErrRespValidInput" end time: Jul 07 09:38 IST
+"UtilsTest.MakeErrRespValidInput" time elapsed: 00:00:02
+----------------------------------------------------------
+
+46/80 Testing: UtilsTest.MakeErrRespEmptyError
+46/80 Test: UtilsTest.MakeErrRespEmptyError
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UtilsTest.MakeErrRespEmptyError" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UtilsTest.MakeErrRespEmptyError" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:13.482082 UTC 21324810 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UtilsTest.MakeErrRespEmptyError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UtilsTest
+[ RUN      ] UtilsTest.MakeErrRespEmptyError
+[       OK ] UtilsTest.MakeErrRespEmptyError (0 ms)
+[----------] 1 test from UtilsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:15.511173 UTC 21324807 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"UtilsTest.MakeErrRespEmptyError" end time: Jul 07 09:38 IST
+"UtilsTest.MakeErrRespEmptyError" time elapsed: 00:00:02
+----------------------------------------------------------
+
+47/80 Testing: UtilsTest.BadRequestCustomStatusCode
+47/80 Test: UtilsTest.BadRequestCustomStatusCode
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=UtilsTest.BadRequestCustomStatusCode" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"UtilsTest.BadRequestCustomStatusCode" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:15.560111 UTC 21324883 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = UtilsTest.BadRequestCustomStatusCode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UtilsTest
+[ RUN      ] UtilsTest.BadRequestCustomStatusCode
+[       OK ] UtilsTest.BadRequestCustomStatusCode (1 ms)
+[----------] 1 test from UtilsTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:17.590266 UTC 21324881 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"UtilsTest.BadRequestCustomStatusCode" end time: Jul 07 09:38 IST
+"UtilsTest.BadRequestCustomStatusCode" time elapsed: 00:00:02
+----------------------------------------------------------
+
+48/80 Testing: AuthControllerTest.RegisterUserSuccess
+48/80 Test: AuthControllerTest.RegisterUserSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=AuthControllerTest.RegisterUserSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"AuthControllerTest.RegisterUserSuccess" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:17.641145 UTC 21324982 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = AuthControllerTest.RegisterUserSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthControllerTest
+[ RUN      ] AuthControllerTest.RegisterUserSuccess
+20250707 04:08:19.650793 UTC 21324979 DEBUG [registerUser] registerUser - AuthController.cc:19
+{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE3NTE4NjQ4OTksImlhdCI6MTc1MTg2MTI5OSwiaXNzIjoidGVzdF9pc3N1ZXIiLCJ1c2VyX2lkIjoiMCJ9.Iw5yt_NoIf_Q2Gd6n7eveKvptSVv5qPC3NCsBTvPZ1g","username":"testuser_1751861299649329"}
+[       OK ] AuthControllerTest.RegisterUserSuccess (249 ms)
+[----------] 1 test from AuthControllerTest (249 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (249 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:19.911594 UTC 21324979 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.32 sec
+----------------------------------------------------------
+Test Passed.
+"AuthControllerTest.RegisterUserSuccess" end time: Jul 07 09:38 IST
+"AuthControllerTest.RegisterUserSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+49/80 Testing: AuthControllerTest.RegisterUserMissingFields
+49/80 Test: AuthControllerTest.RegisterUserMissingFields
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=AuthControllerTest.RegisterUserMissingFields" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"AuthControllerTest.RegisterUserMissingFields" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:19.965935 UTC 21325037 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = AuthControllerTest.RegisterUserMissingFields
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthControllerTest
+[ RUN      ] AuthControllerTest.RegisterUserMissingFields
+20250707 04:08:21.969872 UTC 21325034 DEBUG [registerUser] registerUser - AuthController.cc:19
+[       OK ] AuthControllerTest.RegisterUserMissingFields (2 ms)
+[----------] 1 test from AuthControllerTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:21.995134 UTC 21325034 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"AuthControllerTest.RegisterUserMissingFields" end time: Jul 07 09:38 IST
+"AuthControllerTest.RegisterUserMissingFields" time elapsed: 00:00:02
+----------------------------------------------------------
+
+50/80 Testing: AuthControllerTest.RegisterUserDuplicateUsername
+50/80 Test: AuthControllerTest.RegisterUserDuplicateUsername
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=AuthControllerTest.RegisterUserDuplicateUsername" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"AuthControllerTest.RegisterUserDuplicateUsername" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:22.075048 UTC 21325166 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = AuthControllerTest.RegisterUserDuplicateUsername
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthControllerTest
+[ RUN      ] AuthControllerTest.RegisterUserDuplicateUsername
+20250707 04:08:24.082739 UTC 21325164 DEBUG [registerUser] registerUser - AuthController.cc:19
+20250707 04:08:24.310280 UTC 21325164 DEBUG [registerUser] registerUser - AuthController.cc:19
+[       OK ] AuthControllerTest.RegisterUserDuplicateUsername (231 ms)
+[----------] 1 test from AuthControllerTest (231 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (231 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:24.328070 UTC 21325164 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.33 sec
+----------------------------------------------------------
+Test Passed.
+"AuthControllerTest.RegisterUserDuplicateUsername" end time: Jul 07 09:38 IST
+"AuthControllerTest.RegisterUserDuplicateUsername" time elapsed: 00:00:02
+----------------------------------------------------------
+
+51/80 Testing: AuthControllerTest.RegisterUserDatabaseError
+51/80 Test: AuthControllerTest.RegisterUserDatabaseError
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=AuthControllerTest.RegisterUserDatabaseError" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"AuthControllerTest.RegisterUserDatabaseError" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:24.375199 UTC 21325216 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = AuthControllerTest.RegisterUserDatabaseError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthControllerTest
+[ RUN      ] AuthControllerTest.RegisterUserDatabaseError
+20250707 04:08:26.380891 UTC 21325213 DEBUG [registerUser] registerUser - AuthController.cc:19
+20250707 04:08:26.618094 UTC 21325218 ERROR ERROR:  value too long for type character varying(50)
+ - PgBatchConnection.cc:527
+20250707 04:08:26.623475 UTC 21325213 ERROR ERROR:  value too long for type character varying(50)
+ - AuthController.cc:52
+[       OK ] AuthControllerTest.RegisterUserDatabaseError (246 ms)
+[----------] 1 test from AuthControllerTest (246 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (246 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:26.641039 UTC 21325213 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.31 sec
+----------------------------------------------------------
+Test Passed.
+"AuthControllerTest.RegisterUserDatabaseError" end time: Jul 07 09:38 IST
+"AuthControllerTest.RegisterUserDatabaseError" time elapsed: 00:00:02
+----------------------------------------------------------
+
+52/80 Testing: AuthControllerTest.LoginUserSuccess
+52/80 Test: AuthControllerTest.LoginUserSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=AuthControllerTest.LoginUserSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"AuthControllerTest.LoginUserSuccess" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:26.689278 UTC 21325254 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = AuthControllerTest.LoginUserSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthControllerTest
+[ RUN      ] AuthControllerTest.LoginUserSuccess
+20250707 04:08:28.694952 UTC 21325251 DEBUG [registerUser] registerUser - AuthController.cc:19
+20250707 04:08:28.926648 UTC 21325251 DEBUG [loginUser] loginUser - AuthController.cc:62
+[       OK ] AuthControllerTest.LoginUserSuccess (447 ms)
+[----------] 1 test from AuthControllerTest (447 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (447 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:29.156047 UTC 21325251 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.51 sec
+----------------------------------------------------------
+Test Passed.
+"AuthControllerTest.LoginUserSuccess" end time: Jul 07 09:38 IST
+"AuthControllerTest.LoginUserSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+53/80 Testing: AuthControllerTest.LoginUserMissingFields
+53/80 Test: AuthControllerTest.LoginUserMissingFields
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=AuthControllerTest.LoginUserMissingFields" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"AuthControllerTest.LoginUserMissingFields" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:29.206218 UTC 21325426 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = AuthControllerTest.LoginUserMissingFields
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthControllerTest
+[ RUN      ] AuthControllerTest.LoginUserMissingFields
+20250707 04:08:31.213888 UTC 21325423 DEBUG [loginUser] loginUser - AuthController.cc:62
+[       OK ] AuthControllerTest.LoginUserMissingFields (5 ms)
+[----------] 1 test from AuthControllerTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:31.241329 UTC 21325423 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"AuthControllerTest.LoginUserMissingFields" end time: Jul 07 09:38 IST
+"AuthControllerTest.LoginUserMissingFields" time elapsed: 00:00:02
+----------------------------------------------------------
+
+54/80 Testing: AuthControllerTest.LoginUserNotFound
+54/80 Test: AuthControllerTest.LoginUserNotFound
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=AuthControllerTest.LoginUserNotFound" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"AuthControllerTest.LoginUserNotFound" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:31.292499 UTC 21325462 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = AuthControllerTest.LoginUserNotFound
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthControllerTest
+[ RUN      ] AuthControllerTest.LoginUserNotFound
+20250707 04:08:33.296544 UTC 21325455 DEBUG [loginUser] loginUser - AuthController.cc:62
+[       OK ] AuthControllerTest.LoginUserNotFound (3 ms)
+[----------] 1 test from AuthControllerTest (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:33.318145 UTC 21325455 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"AuthControllerTest.LoginUserNotFound" end time: Jul 07 09:38 IST
+"AuthControllerTest.LoginUserNotFound" time elapsed: 00:00:02
+----------------------------------------------------------
+
+55/80 Testing: AuthControllerTest.LoginUserWrongPassword
+55/80 Test: AuthControllerTest.LoginUserWrongPassword
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=AuthControllerTest.LoginUserWrongPassword" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"AuthControllerTest.LoginUserWrongPassword" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:33.368281 UTC 21325505 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = AuthControllerTest.LoginUserWrongPassword
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthControllerTest
+[ RUN      ] AuthControllerTest.LoginUserWrongPassword
+20250707 04:08:35.372939 UTC 21325502 DEBUG [registerUser] registerUser - AuthController.cc:19
+20250707 04:08:35.590492 UTC 21325502 DEBUG [loginUser] loginUser - AuthController.cc:62
+[       OK ] AuthControllerTest.LoginUserWrongPassword (432 ms)
+[----------] 1 test from AuthControllerTest (432 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (432 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:35.820143 UTC 21325502 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.50 sec
+----------------------------------------------------------
+Test Passed.
+"AuthControllerTest.LoginUserWrongPassword" end time: Jul 07 09:38 IST
+"AuthControllerTest.LoginUserWrongPassword" time elapsed: 00:00:02
+----------------------------------------------------------
+
+56/80 Testing: AuthControllerTest.LoginUserDatabaseError
+56/80 Test: AuthControllerTest.LoginUserDatabaseError
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=AuthControllerTest.LoginUserDatabaseError" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"AuthControllerTest.LoginUserDatabaseError" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:35.868361 UTC 21325564 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = AuthControllerTest.LoginUserDatabaseError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AuthControllerTest
+[ RUN      ] AuthControllerTest.LoginUserDatabaseError
+20250707 04:08:37.874887 UTC 21325561 DEBUG [loginUser] loginUser - AuthController.cc:62
+[       OK ] AuthControllerTest.LoginUserDatabaseError (5 ms)
+[----------] 1 test from AuthControllerTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:37.899833 UTC 21325561 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"AuthControllerTest.LoginUserDatabaseError" end time: Jul 07 09:38 IST
+"AuthControllerTest.LoginUserDatabaseError" time elapsed: 00:00:02
+----------------------------------------------------------
+
+57/80 Testing: JobsControllerTest.GetJobByIdSuccess
+57/80 Test: JobsControllerTest.GetJobByIdSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobsControllerTest.GetJobByIdSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobsControllerTest.GetJobByIdSuccess" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:37.948345 UTC 21325637 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobsControllerTest.GetJobByIdSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobsControllerTest
+[ RUN      ] JobsControllerTest.GetJobByIdSuccess
+20250707 04:08:39.969722 UTC 21325635 DEBUG [getOne] getOne jobId: 1 - JobsController.cc:51
+[       OK ] JobsControllerTest.GetJobByIdSuccess (19 ms)
+[----------] 1 test from JobsControllerTest (19 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (20 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:39.996197 UTC 21325635 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.10 sec
+----------------------------------------------------------
+Test Passed.
+"JobsControllerTest.GetJobByIdSuccess" end time: Jul 07 09:38 IST
+"JobsControllerTest.GetJobByIdSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+58/80 Testing: JobsControllerTest.CreateJobSuccess
+58/80 Test: JobsControllerTest.CreateJobSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobsControllerTest.CreateJobSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobsControllerTest.CreateJobSuccess" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:40.049780 UTC 21325676 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobsControllerTest.CreateJobSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobsControllerTest
+[ RUN      ] JobsControllerTest.CreateJobSuccess
+20250707 04:08:42.067190 UTC 21325673 DEBUG [createOne] createOne - JobsController.cc:81
+[       OK ] JobsControllerTest.CreateJobSuccess (18 ms)
+[----------] 1 test from JobsControllerTest (18 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (18 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:42.097631 UTC 21325673 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.10 sec
+----------------------------------------------------------
+Test Passed.
+"JobsControllerTest.CreateJobSuccess" end time: Jul 07 09:38 IST
+"JobsControllerTest.CreateJobSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+59/80 Testing: JobsControllerTest.UpdateJobSuccess
+59/80 Test: JobsControllerTest.UpdateJobSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobsControllerTest.UpdateJobSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobsControllerTest.UpdateJobSuccess" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:42.152621 UTC 21325728 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobsControllerTest.UpdateJobSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobsControllerTest
+[ RUN      ] JobsControllerTest.UpdateJobSuccess
+20250707 04:08:44.164020 UTC 21325725 DEBUG [updateOne] updateOne jobId: 2 - JobsController.cc:104
+[       OK ] JobsControllerTest.UpdateJobSuccess (14 ms)
+[----------] 1 test from JobsControllerTest (14 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (14 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:44.190506 UTC 21325725 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.09 sec
+----------------------------------------------------------
+Test Passed.
+"JobsControllerTest.UpdateJobSuccess" end time: Jul 07 09:38 IST
+"JobsControllerTest.UpdateJobSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+60/80 Testing: JobsControllerTest.DeleteJobSuccess
+60/80 Test: JobsControllerTest.DeleteJobSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobsControllerTest.DeleteJobSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobsControllerTest.DeleteJobSuccess" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:44.240799 UTC 21325768 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobsControllerTest.DeleteJobSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobsControllerTest
+[ RUN      ] JobsControllerTest.DeleteJobSuccess
+20250707 04:08:46.248442 UTC 21325765 DEBUG [deleteOne] deleteOne jobId:  - JobsController.cc:154
+[       OK ] JobsControllerTest.DeleteJobSuccess (5 ms)
+[----------] 1 test from JobsControllerTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:46.269919 UTC 21325765 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"JobsControllerTest.DeleteJobSuccess" end time: Jul 07 09:38 IST
+"JobsControllerTest.DeleteJobSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+61/80 Testing: JobsControllerTest.GetJobByIdNotFound
+61/80 Test: JobsControllerTest.GetJobByIdNotFound
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JobsControllerTest.GetJobByIdNotFound" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JobsControllerTest.GetJobByIdNotFound" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:46.319392 UTC 21325820 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JobsControllerTest.GetJobByIdNotFound
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JobsControllerTest
+[ RUN      ] JobsControllerTest.GetJobByIdNotFound
+20250707 04:08:48.324285 UTC 21325816 DEBUG [getOne] getOne jobId: 1001 - JobsController.cc:51
+[       OK ] JobsControllerTest.GetJobByIdNotFound (2 ms)
+[----------] 1 test from JobsControllerTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:48.341345 UTC 21325816 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"JobsControllerTest.GetJobByIdNotFound" end time: Jul 07 09:38 IST
+"JobsControllerTest.GetJobByIdNotFound" time elapsed: 00:00:02
+----------------------------------------------------------
+
+62/80 Testing: PersonsControllerTest.GetPersonsSuccess
+62/80 Test: PersonsControllerTest.GetPersonsSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonsControllerTest.GetPersonsSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonsControllerTest.GetPersonsSuccess" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:48.390197 UTC 21325896 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonsControllerTest.GetPersonsSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonsControllerTest
+[ RUN      ] PersonsControllerTest.GetPersonsSuccess
+20250707 04:08:50.429728 UTC 21325893 DEBUG [get] get - PersonsController.cc:25
+[       OK ] PersonsControllerTest.GetPersonsSuccess (28 ms)
+[----------] 1 test from PersonsControllerTest (28 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (28 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:50.457494 UTC 21325893 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.12 sec
+----------------------------------------------------------
+Test Passed.
+"PersonsControllerTest.GetPersonsSuccess" end time: Jul 07 09:38 IST
+"PersonsControllerTest.GetPersonsSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+63/80 Testing: PersonsControllerTest.GetPersonByIdSuccess
+63/80 Test: PersonsControllerTest.GetPersonByIdSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonsControllerTest.GetPersonByIdSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonsControllerTest.GetPersonByIdSuccess" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:50.506872 UTC 21325947 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonsControllerTest.GetPersonByIdSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonsControllerTest
+[ RUN      ] PersonsControllerTest.GetPersonByIdSuccess
+20250707 04:08:52.529686 UTC 21325945 DEBUG [getOne] getOne personId: 1001 - PersonsController.cc:81
+[       OK ] PersonsControllerTest.GetPersonByIdSuccess (20 ms)
+[----------] 1 test from PersonsControllerTest (20 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (20 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:52.550202 UTC 21325945 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.09 sec
+----------------------------------------------------------
+Test Passed.
+"PersonsControllerTest.GetPersonByIdSuccess" end time: Jul 07 09:38 IST
+"PersonsControllerTest.GetPersonByIdSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+64/80 Testing: PersonsControllerTest.GetPersonByIdNotFound
+64/80 Test: PersonsControllerTest.GetPersonByIdNotFound
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonsControllerTest.GetPersonByIdNotFound" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonsControllerTest.GetPersonByIdNotFound" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:52.596743 UTC 21325994 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonsControllerTest.GetPersonByIdNotFound
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonsControllerTest
+[ RUN      ] PersonsControllerTest.GetPersonByIdNotFound
+20250707 04:08:54.641860 UTC 21325992 DEBUG [getOne] getOne personId: 2001 - PersonsController.cc:81
+[       OK ] PersonsControllerTest.GetPersonByIdNotFound (43 ms)
+[----------] 1 test from PersonsControllerTest (43 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (43 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:54.664747 UTC 21325992 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.11 sec
+----------------------------------------------------------
+Test Passed.
+"PersonsControllerTest.GetPersonByIdNotFound" end time: Jul 07 09:38 IST
+"PersonsControllerTest.GetPersonByIdNotFound" time elapsed: 00:00:02
+----------------------------------------------------------
+
+65/80 Testing: PersonsControllerTest.CreatePersonSuccess
+65/80 Test: PersonsControllerTest.CreatePersonSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonsControllerTest.CreatePersonSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonsControllerTest.CreatePersonSuccess" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:54.714842 UTC 21326037 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonsControllerTest.CreatePersonSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonsControllerTest
+[ RUN      ] PersonsControllerTest.CreatePersonSuccess
+20250707 04:08:56.732495 UTC 21326034 DEBUG [createOne] createOne - PersonsController.cc:125
+[       OK ] PersonsControllerTest.CreatePersonSuccess (18 ms)
+[----------] 1 test from PersonsControllerTest (18 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (18 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:56.759492 UTC 21326034 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.09 sec
+----------------------------------------------------------
+Test Passed.
+"PersonsControllerTest.CreatePersonSuccess" end time: Jul 07 09:38 IST
+"PersonsControllerTest.CreatePersonSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+66/80 Testing: PersonsControllerTest.UpdatePersonSuccess
+66/80 Test: PersonsControllerTest.UpdatePersonSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonsControllerTest.UpdatePersonSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonsControllerTest.UpdatePersonSuccess" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:56.809358 UTC 21326089 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonsControllerTest.UpdatePersonSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonsControllerTest
+[ RUN      ] PersonsControllerTest.UpdatePersonSuccess
+20250707 04:08:58.831526 UTC 21326086 DEBUG [updateOne] updateOne personId: 1001 - PersonsController.cc:148
+[       OK ] PersonsControllerTest.UpdatePersonSuccess (20 ms)
+[----------] 1 test from PersonsControllerTest (20 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (20 ms total)
+[  PASSED  ] 1 test.
+20250707 04:08:58.856633 UTC 21326086 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.10 sec
+----------------------------------------------------------
+Test Passed.
+"PersonsControllerTest.UpdatePersonSuccess" end time: Jul 07 09:38 IST
+"PersonsControllerTest.UpdatePersonSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+67/80 Testing: PersonsControllerTest.DeletePersonSuccess
+67/80 Test: PersonsControllerTest.DeletePersonSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonsControllerTest.DeletePersonSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonsControllerTest.DeletePersonSuccess" start time: Jul 07 09:38 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:08:58.908674 UTC 21326170 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonsControllerTest.DeletePersonSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonsControllerTest
+[ RUN      ] PersonsControllerTest.DeletePersonSuccess
+20250707 04:09:00.921928 UTC 21326167 DEBUG [deleteOne] deleteOne personId:  - PersonsController.cc:199
+[       OK ] PersonsControllerTest.DeletePersonSuccess (13 ms)
+[----------] 1 test from PersonsControllerTest (13 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (13 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:00.942142 UTC 21326167 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"PersonsControllerTest.DeletePersonSuccess" end time: Jul 07 09:39 IST
+"PersonsControllerTest.DeletePersonSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+68/80 Testing: PersonsControllerTest.GetDirectReportsSuccess
+68/80 Test: PersonsControllerTest.GetDirectReportsSuccess
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=PersonsControllerTest.GetDirectReportsSuccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"PersonsControllerTest.GetDirectReportsSuccess" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:00.989894 UTC 21326211 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = PersonsControllerTest.GetDirectReportsSuccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonsControllerTest
+[ RUN      ] PersonsControllerTest.GetDirectReportsSuccess
+20250707 04:09:03.008057 UTC 21326209 DEBUG [getDirectReports] getDirectReports personId: 1002 - PersonsController.cc:220
+[       OK ] PersonsControllerTest.GetDirectReportsSuccess (15 ms)
+[----------] 1 test from PersonsControllerTest (15 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (15 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:03.028909 UTC 21326209 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.09 sec
+----------------------------------------------------------
+Test Passed.
+"PersonsControllerTest.GetDirectReportsSuccess" end time: Jul 07 09:39 IST
+"PersonsControllerTest.GetDirectReportsSuccess" time elapsed: 00:00:02
+----------------------------------------------------------
+
+69/80 Testing: JwtTest.EncodeAndDecodeValidToken
+69/80 Test: JwtTest.EncodeAndDecodeValidToken
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JwtTest.EncodeAndDecodeValidToken" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JwtTest.EncodeAndDecodeValidToken" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:03.086477 UTC 21326251 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JwtTest.EncodeAndDecodeValidToken
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JwtTest
+[ RUN      ] JwtTest.EncodeAndDecodeValidToken
+[       OK ] JwtTest.EncodeAndDecodeValidToken (4 ms)
+[----------] 1 test from JwtTest (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:05.120318 UTC 21326249 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.09 sec
+----------------------------------------------------------
+Test Passed.
+"JwtTest.EncodeAndDecodeValidToken" end time: Jul 07 09:39 IST
+"JwtTest.EncodeAndDecodeValidToken" time elapsed: 00:00:02
+----------------------------------------------------------
+
+70/80 Testing: JwtTest.TokenHasCorrectExpiration
+70/80 Test: JwtTest.TokenHasCorrectExpiration
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JwtTest.TokenHasCorrectExpiration" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JwtTest.TokenHasCorrectExpiration" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:05.169966 UTC 21326309 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JwtTest.TokenHasCorrectExpiration
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JwtTest
+[ RUN      ] JwtTest.TokenHasCorrectExpiration
+[       OK ] JwtTest.TokenHasCorrectExpiration (0 ms)
+[----------] 1 test from JwtTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:07.196396 UTC 21326306 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"JwtTest.TokenHasCorrectExpiration" end time: Jul 07 09:39 IST
+"JwtTest.TokenHasCorrectExpiration" time elapsed: 00:00:02
+----------------------------------------------------------
+
+71/80 Testing: JwtTest.DecodeWithWrongSecretThrows
+71/80 Test: JwtTest.DecodeWithWrongSecretThrows
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JwtTest.DecodeWithWrongSecretThrows" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JwtTest.DecodeWithWrongSecretThrows" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:07.244348 UTC 21326367 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JwtTest.DecodeWithWrongSecretThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JwtTest
+[ RUN      ] JwtTest.DecodeWithWrongSecretThrows
+[       OK ] JwtTest.DecodeWithWrongSecretThrows (3 ms)
+[----------] 1 test from JwtTest (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:09.277047 UTC 21326363 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"JwtTest.DecodeWithWrongSecretThrows" end time: Jul 07 09:39 IST
+"JwtTest.DecodeWithWrongSecretThrows" time elapsed: 00:00:02
+----------------------------------------------------------
+
+72/80 Testing: JwtTest.DecodeWithWrongIssuerThrows
+72/80 Test: JwtTest.DecodeWithWrongIssuerThrows
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JwtTest.DecodeWithWrongIssuerThrows" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JwtTest.DecodeWithWrongIssuerThrows" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:09.327717 UTC 21326420 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JwtTest.DecodeWithWrongIssuerThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JwtTest
+[ RUN      ] JwtTest.DecodeWithWrongIssuerThrows
+[       OK ] JwtTest.DecodeWithWrongIssuerThrows (1 ms)
+[----------] 1 test from JwtTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:11.358725 UTC 21326417 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"JwtTest.DecodeWithWrongIssuerThrows" end time: Jul 07 09:39 IST
+"JwtTest.DecodeWithWrongIssuerThrows" time elapsed: 00:00:02
+----------------------------------------------------------
+
+73/80 Testing: JwtTest.DecodeExpiredTokenThrows
+73/80 Test: JwtTest.DecodeExpiredTokenThrows
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JwtTest.DecodeExpiredTokenThrows" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JwtTest.DecodeExpiredTokenThrows" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:11.407096 UTC 21326457 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JwtTest.DecodeExpiredTokenThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JwtTest
+[ RUN      ] JwtTest.DecodeExpiredTokenThrows
+[       OK ] JwtTest.DecodeExpiredTokenThrows (2004 ms)
+[----------] 1 test from JwtTest (2004 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2005 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:15.433070 UTC 21326455 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   4.07 sec
+----------------------------------------------------------
+Test Passed.
+"JwtTest.DecodeExpiredTokenThrows" end time: Jul 07 09:39 IST
+"JwtTest.DecodeExpiredTokenThrows" time elapsed: 00:00:04
+----------------------------------------------------------
+
+74/80 Testing: JwtPluginTest.InitAndStartStoresConfig
+74/80 Test: JwtPluginTest.InitAndStartStoresConfig
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JwtPluginTest.InitAndStartStoresConfig" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JwtPluginTest.InitAndStartStoresConfig" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:15.480364 UTC 21326534 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JwtPluginTest.InitAndStartStoresConfig
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JwtPluginTest
+[ RUN      ] JwtPluginTest.InitAndStartStoresConfig
+20250707 04:09:17.484991 UTC 21326532 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+[       OK ] JwtPluginTest.InitAndStartStoresConfig (1 ms)
+[----------] 1 test from JwtPluginTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:17.509720 UTC 21326532 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"JwtPluginTest.InitAndStartStoresConfig" end time: Jul 07 09:39 IST
+"JwtPluginTest.InitAndStartStoresConfig" time elapsed: 00:00:02
+----------------------------------------------------------
+
+75/80 Testing: JwtPluginTest.ShutdownDoesNotThrow
+75/80 Test: JwtPluginTest.ShutdownDoesNotThrow
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JwtPluginTest.ShutdownDoesNotThrow" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JwtPluginTest.ShutdownDoesNotThrow" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:17.559166 UTC 21326627 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JwtPluginTest.ShutdownDoesNotThrow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JwtPluginTest
+[ RUN      ] JwtPluginTest.ShutdownDoesNotThrow
+20250707 04:09:19.560001 UTC 21326625 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+20250707 04:09:19.560016 UTC 21326625 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+[       OK ] JwtPluginTest.ShutdownDoesNotThrow (0 ms)
+[----------] 1 test from JwtPluginTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:19.581123 UTC 21326625 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"JwtPluginTest.ShutdownDoesNotThrow" end time: Jul 07 09:39 IST
+"JwtPluginTest.ShutdownDoesNotThrow" time elapsed: 00:00:02
+----------------------------------------------------------
+
+76/80 Testing: JwtPluginTest.InitUsesDefaultConfigIfMissing
+76/80 Test: JwtPluginTest.InitUsesDefaultConfigIfMissing
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=JwtPluginTest.InitUsesDefaultConfigIfMissing" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"JwtPluginTest.InitUsesDefaultConfigIfMissing" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:19.633148 UTC 21326675 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = JwtPluginTest.InitUsesDefaultConfigIfMissing
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from JwtPluginTest
+[ RUN      ] JwtPluginTest.InitUsesDefaultConfigIfMissing
+20250707 04:09:21.634258 UTC 21326672 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+20250707 04:09:21.634268 UTC 21326672 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+[       OK ] JwtPluginTest.InitUsesDefaultConfigIfMissing (0 ms)
+[----------] 1 test from JwtPluginTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:21.651979 UTC 21326672 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.07 sec
+----------------------------------------------------------
+Test Passed.
+"JwtPluginTest.InitUsesDefaultConfigIfMissing" end time: Jul 07 09:39 IST
+"JwtPluginTest.InitUsesDefaultConfigIfMissing" time elapsed: 00:00:02
+----------------------------------------------------------
+
+77/80 Testing: LoginFilterTest.MissingAuthorizationHeader
+77/80 Test: LoginFilterTest.MissingAuthorizationHeader
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=LoginFilterTest.MissingAuthorizationHeader" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"LoginFilterTest.MissingAuthorizationHeader" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:21.700997 UTC 21326717 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = LoginFilterTest.MissingAuthorizationHeader
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LoginFilterTest
+[ RUN      ] LoginFilterTest.MissingAuthorizationHeader
+20250707 04:09:23.703833 UTC 21326714 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+[       OK ] LoginFilterTest.MissingAuthorizationHeader (0 ms)
+[----------] 1 test from LoginFilterTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:23.729482 UTC 21326714 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"LoginFilterTest.MissingAuthorizationHeader" end time: Jul 07 09:39 IST
+"LoginFilterTest.MissingAuthorizationHeader" time elapsed: 00:00:02
+----------------------------------------------------------
+
+78/80 Testing: LoginFilterTest.InvalidJwtToken
+78/80 Test: LoginFilterTest.InvalidJwtToken
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=LoginFilterTest.InvalidJwtToken" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"LoginFilterTest.InvalidJwtToken" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:23.781344 UTC 21326762 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = LoginFilterTest.InvalidJwtToken
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LoginFilterTest
+[ RUN      ] LoginFilterTest.InvalidJwtToken
+20250707 04:09:25.783788 UTC 21326759 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+20250707 04:09:25.785126 UTC 21326759 ERROR Invalid input: too much fill - LoginFilter.cc:31
+[       OK ] LoginFilterTest.InvalidJwtToken (1 ms)
+[----------] 1 test from LoginFilterTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:25.809502 UTC 21326759 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.08 sec
+----------------------------------------------------------
+Test Passed.
+"LoginFilterTest.InvalidJwtToken" end time: Jul 07 09:39 IST
+"LoginFilterTest.InvalidJwtToken" time elapsed: 00:00:02
+----------------------------------------------------------
+
+79/80 Testing: LoginFilterTest.ValidJwtToken
+79/80 Test: LoginFilterTest.ValidJwtToken
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=LoginFilterTest.ValidJwtToken" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"LoginFilterTest.ValidJwtToken" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:25.859354 UTC 21326795 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = LoginFilterTest.ValidJwtToken
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LoginFilterTest
+[ RUN      ] LoginFilterTest.ValidJwtToken
+20250707 04:09:27.862814 UTC 21326792 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+[       OK ] LoginFilterTest.ValidJwtToken (1 ms)
+[----------] 1 test from LoginFilterTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:27.896054 UTC 21326792 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.09 sec
+----------------------------------------------------------
+Test Passed.
+"LoginFilterTest.ValidJwtToken" end time: Jul 07 09:39 IST
+"LoginFilterTest.ValidJwtToken" time elapsed: 00:00:02
+----------------------------------------------------------
+
+80/80 Testing: LoginFilterTest.MalformedAuthorizationHeader
+80/80 Test: LoginFilterTest.MalformedAuthorizationHeader
+Command: "/Users/hurshikeshsahu/unit-test-generator/build/AllTests" "--gtest_filter=LoginFilterTest.MalformedAuthorizationHeader" "--gtest_also_run_disabled_tests"
+Directory: /Users/hurshikeshsahu/unit-test-generator/build
+"LoginFilterTest.MalformedAuthorizationHeader" start time: Jul 07 09:39 IST
+Output:
+----------------------------------------------------------
+LoginFilter loaded!
+20250707 04:09:27.952909 UTC 21326890 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+Note: Google Test filter = LoginFilterTest.MalformedAuthorizationHeader
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LoginFilterTest
+[ RUN      ] LoginFilterTest.MalformedAuthorizationHeader
+20250707 04:09:29.953728 UTC 21326884 DEBUG [initAndStart] JWT initialized and Start - JwtPlugin.cc:7
+[       OK ] LoginFilterTest.MalformedAuthorizationHeader (2 ms)
+[----------] 1 test from LoginFilterTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+20250707 04:09:29.984028 UTC 21326884 DEBUG [shutdown] JWT shuut down - JwtPlugin.cc:12
+<end of output>
+Test time =   2.09 sec
+----------------------------------------------------------
+Test Passed.
+"LoginFilterTest.MalformedAuthorizationHeader" end time: Jul 07 09:39 IST
+"LoginFilterTest.MalformedAuthorizationHeader" time elapsed: 00:00:02
+----------------------------------------------------------
+
+End testing: Jul 07 09:39 IST

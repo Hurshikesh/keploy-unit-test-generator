@@ -1,0 +1,26 @@
+instructions:
+  - Carefully analyze the provided coverage report and the existing test files.
+  - Generate new or improved unit tests to cover all uncovered lines and branches in the specified source files.
+  - Do NOT duplicate or rewrite existing tests unnecessarily.
+  - Focus on edge cases, error handling, and boundary conditions.
+  - Do NOT hallucinate or invent any code that is not supported by the coverage report or source files.
+  - Do NOT modify unrelated tests or code outside the scope of coverage improvement.
+  - Ensure all generated tests are self-contained, independent, and compilable with Google Test.
+  - Only output a single, clean, compilable C++ test file using Google Test macros.
+input:
+  coverage_report: "<paste coverage summary here>"
+  files_to_improve:
+    - orgChartApi/models/Department.cc
+    - orgChartApi/models/Person.cc
+    - orgChartApi/models/Job.cc
+    - orgChartApi/models/User.cc
+    - orgChartApi/models/PersonInfo.cc
+    - orgChartApi/controllers/DepartmentsController.cc
+    - orgChartApi/controllers/AuthController.cc
+    - orgChartApi/controllers/JobsController.cc
+    - orgChartApi/controllers/PersonsController.cc
+    - orgChartApi/utils/utils.cc
+    - orgChartApi/plugins/Jwt.cc
+    - orgChartApi/plugins/JwtPlugin.cc
+    - orgChartApi/filters/LoginFilter.cc
+output_format: gtest
