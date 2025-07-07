@@ -56,7 +56,6 @@ C++ / Coverage Tools
 macOS:
 ```
 brew install cmake lcov gcovr
-pip install -r requirements.txt
 
 ```
 
